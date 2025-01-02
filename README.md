@@ -1,2 +1,1 @@
-# git_test code
-hello odin
+# git_test
